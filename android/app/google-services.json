@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "63798042043",
+    "firebase_url": "https://precj-642c3.firebaseio.com",
+    "project_id": "precj-642c3",
+    "storage_bucket": "precj-642c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63798042043:android:0372b667cb4b3c32cbb89e",
+        "android_client_info": {
+          "package_name": "com.hdev.flutterap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63798042043-r4kd4d50sds85mfs3077k6o1sihqsrf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpjomyRKaF5dP5NvVsPlpNX-cMdmNpstk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63798042043-r4kd4d50sds85mfs3077k6o1sihqsrf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
